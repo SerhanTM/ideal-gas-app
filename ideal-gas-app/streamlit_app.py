@@ -1,5 +1,4 @@
 # main.py
-import matplotlib.pyplot as plt
 import streamlit as st
 
 # Ideal gas constant
